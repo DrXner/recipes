@@ -4,5 +4,5 @@ Sause
 Cheese
 
 Directions
-Make it
-don't forget to put it in the oven
+1. Make it
+2. put in oven
